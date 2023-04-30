@@ -1,5 +1,4 @@
 # Title: Boosting Performance of NLU Tasks for Indic Languages using Data Augmentation Strategies
-## README File for successful execution of models
 
 In the github repository you will find 3 main folders for the languages Hindi, Kannada and Marathi.
 The dataset  exists in the data directory inside each language folder.
